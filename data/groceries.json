@@ -1,0 +1,19 @@
+const groceries = [
+  {
+    id: 'G1',
+    title: 'Fruits',
+    children: [
+      { id: 'G1C1', title: 'Apples' },
+      { id: 'G1C2', title: 'Bananas' },
+    ],
+  },
+  {
+    id: 'G2',
+    title: 'Vegetables',
+    children: [
+      { id: 'G2C1', title: 'Tomatos' },
+      { id: 'G2C2', title: 'Potatos' },
+	  
+    ],
+  }
+];
