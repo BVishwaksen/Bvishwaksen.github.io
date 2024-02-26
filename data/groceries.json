@@ -1,4 +1,4 @@
-const groceries = [
+{[
   {
     id: 'G1',
     title: 'Fruits',
@@ -16,4 +16,4 @@ const groceries = [
 	  
     ],
   }
-];
+]}
